@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://git.kmsign.ru/royalcat/vscode-lime-black"
+        "url": "https://github.com/royalcat/vscode-lime-black"
     },
     "engines": {
         "vscode": "^1.40.0"
