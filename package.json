@@ -1,0 +1,26 @@
+{
+    "name": "lime-black",
+    "displayName": "lime-black",
+    "description": "Lime black vscode color theme",
+    "publisher": "royalcat",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://git.kmsign.ru/royalcat/vscode-lime-black"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lime Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lime Black-color-theme.json"
+            }
+        ]
+    }
+}
