@@ -70,7 +70,7 @@
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#dddddd",
 		// Minimap
-		"minimap.findMatchHighlight": "#666666",
+		"minimap.findMatchHighlight": "#66666644",
 		// Editor Group & Tabs
 		"editorGroup.border": "#222222",
 		"editorGroup.dropBackground": "#222222",
@@ -109,13 +109,13 @@
 		"editorCursor.foreground": "#ffffff",
 		"editor.selectionBackground": "#222222",
 		"editor.selectionForeground": "#ffffff",
-		"editor.inactiveSelectionBackground": "#888888",
-		"editor.selectionHighlightBackground": "#666666",
+		"editor.inactiveSelectionBackground": "#88888844",
+		"editor.selectionHighlightBackground": "#66666644",
 		"editor.selectionHighlightBorder": "#888888",
 		// Editor widget colors
 		"editorWidget.foreground": "#dddddd",
 		"editorWidget.background": "#000000",
-		"editorWidget.border": "#222222",
+		"editorWidget.border": "#fcfcfc",
 		"editorWidget.resizeBorder": "#222222",
 		// Status Bar Colors
 		"statusBar.background": "#000000",
@@ -157,6 +157,8 @@
 		"foreground": "#cccccc",
 		"panelTitle.activeBorder": "#70aa2b",
 		"panelTitle.activeForeground": "#cccccc",
+		// Git Blame extension
+		"gitblame.inlineMessage": "#fcfcfc44"
 	},
 	"tokenColors": [
 		{
