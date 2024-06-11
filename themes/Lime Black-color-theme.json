@@ -115,7 +115,7 @@
 		// Editor widget colors
 		"editorWidget.foreground": "#dddddd",
 		"editorWidget.background": "#000000",
-		"editorWidget.border": "#fcfcfc",
+		"editorWidget.border": "#222222",
 		"editorWidget.resizeBorder": "#222222",
 		// Status Bar Colors
 		"statusBar.background": "#000000",
